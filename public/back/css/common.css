@@ -93,7 +93,6 @@ ul {
     display: block;
     color:#fff ;
     padding-left: 40px;
-    padding-left: 40px;
     border-left: 3px solid transparent;
   }
   .lt_aside .nav li a.active {
@@ -142,3 +141,8 @@ ul {
   padding-left: 0px;
 }
 
+.table_1,
+.table_2 {
+  width: 48%;
+  height: 400px;
+}
